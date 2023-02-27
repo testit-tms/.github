@@ -1,32 +1,101 @@
-# Test IT Test Management System
+# Awesome TMS Test IT
+
+- [Awesome TMS Test IT](#awesome-tms-test-it)
+  - [About](#about)
+    - [What is Test IT](#what-is-test-it)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+  - [Adapters](#adapters)
+    - [Official Adapters](#official-adapters)
+    - [Community Adapters](#community-adapters)
+  - [Clients](#clients)
+  - [Importers](#importers)
+    - [Official Importers](#official-importers)
+    - [Community Importers](#community-importers)
+  - [Media](#media)
+
+## About
+
+___
+
+![](/images/testit.png)
 
 Welcome everybody to Test IT repository! We are pleased to see all the guests and participants of our open source project.
 
-# What is Test IT
+### What is Test IT
 
-Test IT is a cutting-edge, user-friendly software testing management system. We provide a go-to solution for combining manual and automated testing.
+___
 
-![test_plan](/images/test_plan.png)
-![test_case](/images/test_case.png)
+Test IT is a cutting-edge, user-friendly software testing management system. We provide a go-to solution for combining manual and automated testing. Test IT solves all tasks of QA/QC and supports software developing.
 
-Test IT was created by professionals with 10 years of experience in QA in companies such as Tinkoff, Kaspersky.
+![](/images/dashboard.png)
 
-Test IT solves all tasks of QA/QC and supports software developing.
+## Resources
 
-Test IT combines manual and automated testing in one interface. You can run autotests directly from Test IT, view the launches, analyze the results and research the reasons for the falls of autotests, as well as view reports on historical data. The data is updated in real time.
+___
 
-# Testing Frameworks Adapters
+### Official Resources
 
-- [Java](https://github.com/testit-tms/adapters-java)
-- [JavaScript](https://github.com/testit-tms/adapters-js)
-- [Python](https://github.com/testit-tms/adapters-python)
+- 💼 [Official site](https://testit.software/)
+- 💉 [Help Center](https://support.yoonion.ru/)
+- 📖 [Docs - Installation Guide](https://docs.testit.software/installation-guide/)
+- 📖 [Docs - Admin Guide](https://docs.testit.software/admin-guide/)
+- 📖 [Docs - User Guide](https://docs.testit.software/user-guide/)
+- 🔎 [Version overview](https://www.youtube.com/playlist?list=PLm_vmYqj5D6B-bGljSlfjPAd7raneLlUR)
+- ☁️ [Test IT Cloud](https://id.testit.software/login)
+- 🖥️ [Test IT Enterprise](https://testit.software/versions)
+
+## Adapters
+
+___
+
+![](/images/frameworks.png)
+
+Adapters are testing framework extensions used to send autotest contents and results of autotest runs to Test IT. Use adapters to run autotests and obtain the test results from any system: IDE, console, CI/CD systems, etc. [Learn more...](https://docs.testit.software/user-guide/avtotesty/zapusk-avtotestov-s-pomoshyu-klientskikh-bibliotek)
+
+### Official Adapters
+
+- 🧪 [@testit/adapters-java](https://github.com/testit-tms/adapters-java): Adapter for integration with Java testing frameworks.
+- 🧪 [@testit/adapters-python](https://github.com/testit-tms/adapters-python): Adapter for integration with Python testing frameworks.
+- 🧪 [@testit/adapters-js](https://github.com/testit-tms/adapters-js): Adapter for integration with JavaScript testing frameworks.
+
+### Community Adapters
+
+- 🧪 [@alexmorez/codeceptjs-testit-reporter](https://github.com/alexmorez/codeceptjs-testit-reporter): Adapter for integration with Codecept testing frameworks.
+- 🧪 [@TatianaKamaletdinova/test-it-gradle-plugin](https://github.com/TatianaKamaletdinova/test-it-gradle-plugin): Gradle plugin for upload test results
+
+## Clients
+
+___
+
+Clients are libraries used to automate your work with Test IT open API.
+
+- 🔌 [@testit/api-client-dotnet](https://github.com/testit-tms/api-client-dotnet): Client for .NET.
+- 🔌 [@testit/api-client-java](https://github.com/testit-tms/api-client-java): Client for Java.
+- 🔌 [@testit/api-client-python](https://github.com/testit-tms/api-client-python): Client for Python.
+- 🔌 [@testit/api-client-js](https://github.com/testit-tms/api-client-js): Client for JavaScript.
+
+## Importers
+
+___
+
+Importers are libraries used to automate the process of importing data from external systems to Test IT.
+
+### Official Importers
+
+- 📥 [@testit/testit-importer-allure](https://github.com/testit-tms/importers): Import Allure result files into TestIT.
+
+### Community Importers
+
+- 📥 [@SolitClouds/postman-importer](https://github.com/SolitClouds/test_it_postman_integration): Upload the structure of postman collections in TestIT and execute them.
+- 📥 [@Notamedia/cypress-testit-adapter](https://github.com/notamedia/cypress-testit-adapter): Import Cypress tests into TestIT.
 
 You can join the creation of the adapters in other languages 😉
 
-# Follow us in other sources:
+## Media
 
-- website https://testit.software/
-- support & community https://help.testit.software/hc/ru 
-- telegram https://t.me/testit_tms 
-- youtube https://www.youtube.com/c/TestITTMS 
-- vk https://vk.com/testittms 
+___
+
+- 📺 [Pro Test](https://www.youtube.com/playlist?list=PLm_vmYqj5D6ClgE13L8A4ZLKbwdMTfv3r): Pro Test YouTube Channel.
+- 📺 [Other Conferences](https://www.youtube.com/playlist?list=PLm_vmYqj5D6AyZLlI6Rx6fne8-WMESQe_): List of conferences featuring Test IT.
+- 🔥 [Blog](https://testit.software/blog): Test IT blog with useful information, articles, tips, and tricks.
