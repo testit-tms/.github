@@ -22,11 +22,12 @@ ___
 
 Getting project ID. To do that:
 
-1. Open DevTools (button F12) > Network  
+1. Open DevTools (button F12) > "Network" tab 
 ![](/images/dev_tools.png)
 2. Go to the project https://{DOMAIN}/projects/{PROJECT_GLOBAL_ID}/tests
-3. GET-request project, Preview tab, copy ID field
+3. Open "project" resource in DevTools > "Preview" tab
 ![](/images/get-request-project.png)
+4. Copy ID field
 
 ## ConfigurationId
 
@@ -34,8 +35,9 @@ ___
 
 Getting configuration ID. To do that:
 
-1. Open DevTools (button F12) > Network  
+1. Open DevTools (button F12) > "Network" tab 
 ![](/images/dev_tools.png)
 2. Go to the project https://{DOMAIN}/projects/{PROJECT_GLOBAL_ID}/tests
-3. GET-request configurations, Preview tab, copy id field
+3. Open "project" resource in DevTools > "Preview" tab
 ![](/images/get-request-configurations.png)
+4. Copy ID field
