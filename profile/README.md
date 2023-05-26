@@ -75,6 +75,7 @@ Clients are libraries used to automate your work with Test IT open API.
 - 🔌 [@testit/api-client-java](https://github.com/testit-tms/api-client-java): Client for Java.
 - 🔌 [@testit/api-client-python](https://github.com/testit-tms/api-client-python): Client for Python.
 - 🔌 [@testit/api-client-js](https://github.com/testit-tms/api-client-js): Client for JavaScript.
+- 🔌 [@testit/api-client-golang](https://github.com/testit-tms/api-client-golang): Client for Golang.
 
 ## Importers
 
