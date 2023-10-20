@@ -92,6 +92,7 @@ Importers are libraries used to automate the process of importing data from exte
 
 - 📥 [@SolitClouds/postman-importer](https://github.com/SolitClouds/test_it_postman_integration): Upload the structure of postman collections in TestIT and execute them.
 - 📥 [@Notamedia/cypress-testit-adapter](https://github.com/notamedia/cypress-testit-adapter): Import Cypress tests into TestIT.
+- 📥 [Serge-Shilin/testlink-totestit-js](https://github.com/Serge-Shilin/testlink-totestit-js): Import test cases from TestLink to TestIT.
 
 You can join the creation of the adapters in other languages 😉
 
