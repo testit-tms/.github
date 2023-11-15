@@ -39,7 +39,7 @@ ___
 - 💼 [Official site](https://testit.software/)
 - 💉 [Help Center](https://support.yoonion.ru/)
 - 📖 [Docs - Installation Guide](https://docs.testit.software/installation-guide/)
-- 📖 [Docs - Admin Guide](https://docs.testit.software/admin-guide/)
+- 📖 [Docs - Admin Guide](https://docs.testit.software/user-guide/admin-guide/admin-guide-intro.html)
 - 📖 [Docs - User Guide](https://docs.testit.software/user-guide/)
 - 🔎 [Version overview](https://www.youtube.com/playlist?list=PLm_vmYqj5D6B-bGljSlfjPAd7raneLlUR)
 - ☁️ [Test IT Cloud](https://id.testit.software/login)
