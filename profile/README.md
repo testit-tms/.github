@@ -51,7 +51,7 @@ ___
 
 ![](/images/frameworks.png)
 
-Adapters are testing framework extensions used to send autotest contents and results of autotest runs to Test IT. Use adapters to run autotests and obtain the test results from any system: IDE, console, CI/CD systems, etc. [Learn more...](https://docs.testit.software/user-guide/avtotesty/zapusk-avtotestov-s-pomoshyu-klientskikh-bibliotek)
+Adapters are testing framework extensions used to send autotest contents and results of autotest runs to Test IT. Use adapters to run autotests and obtain the test results from any system: IDE, console, CI/CD systems, etc. [Learn more...](https://docs.testit.software/user-guide/autotests/launch-autotests-from-client-libraries.html)
 
 ### Official Adapters
 
