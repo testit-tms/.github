@@ -60,6 +60,7 @@ Adapters are testing framework extensions used to send autotest contents and res
 - 🧪 [@testit/adapters-js](https://github.com/testit-tms/adapters-js): Adapter for integration with JavaScript testing frameworks.
 - 🧪 [@testit/adapters-dotnet](https://github.com/testit-tms/adapters-dotnet): Adapter for integration with Dotnet testing frameworks.
 - 🧪 [@testit/adapters-go](https://github.com/testit-tms/adapters-go): Adapter for integration with Golang testing frameworks.
+- 🧪 [@testit/adapters-flutter](https://github.com/testit-tms/adapters-flutter): Adapter for integration with Flutter.
 
 ### Community Adapters
 
