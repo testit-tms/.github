@@ -61,6 +61,7 @@ Adapters are testing framework extensions used to send autotest contents and res
 - 🧪 [@testit/adapters-dotnet](https://github.com/testit-tms/adapters-dotnet): Adapter for integration with Dotnet testing frameworks.
 - 🧪 [@testit/adapters-go](https://github.com/testit-tms/adapters-go): Adapter for integration with Golang testing frameworks.
 - 🧪 [@testit/adapters-flutter](https://github.com/testit-tms/adapters-flutter): Adapter for integration with Flutter.
+- 🧪 [@testit/adapters-kotlin](https://github.com/testit-tms/adapters-kotlin): Adapter for integration with Kotlin.
 
 ### Community Adapters
 
@@ -78,8 +79,10 @@ Clients are libraries used to automate your work with Test IT open API.
 - 🔌 [@testit/api-client-python](https://github.com/testit-tms/api-client-python): Client for Python.
 - 🔌 [@testit/api-client-js](https://github.com/testit-tms/api-client-js): Client for JavaScript.
 - 🔌 [@testit/api-client-golang](https://github.com/testit-tms/api-client-golang): Client for Golang.
+- 🔌 [@testit/api-client-kotlin](https://github.com/testit-tms/api-client-kotlin): Client for Kotlin.
 
 ## Importers
+
 
 ___
 
@@ -87,6 +90,7 @@ Importers are libraries used to automate the process of importing data from exte
 
 ### Official Importers
 
+- 📥 [@testit/migrators](https://github.com/testit-tms/migrators): Official Importers and exporters for different system to the Test IT.
 - 📥 [@testit/testit-importer-allure](https://github.com/testit-tms/importers): Import Allure result files into Test IT.
 
 ### Community Importers
