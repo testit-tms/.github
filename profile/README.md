@@ -45,6 +45,10 @@ ___
 - ☁️ [Test IT Cloud](https://id.testit.software/login)
 - 🖥️ [Test IT Enterprise](https://testit.software/versions)
 
+## Tools
+
+- 🧪 [@testit/testit-cli](https://github.com/testit-tms/testit-cli): Test IT CLI - utility for working with Test IT API and adapters.
+
 ## Adapters
 
 ___
