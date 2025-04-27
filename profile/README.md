@@ -71,6 +71,7 @@ Adapters are testing framework extensions used to send autotest contents and res
 
 - 🧪 [@alexmorez/codeceptjs-testit-reporter](https://github.com/alexmorez/codeceptjs-testit-reporter): Adapter for integration with Codecept testing frameworks.
 - 🧪 [@TatianaKamaletdinova/test-it-gradle-plugin](https://github.com/TatianaKamaletdinova/test-it-gradle-plugin): Gradle plugin for upload test results
+- 🧪 [@Unicorn-TAF/testit-agent](https://github.com/Unicorn-TAF/testit-agent): Adapter for integration with Unicorn.TAF testing framework.
 
 ## Clients
 
