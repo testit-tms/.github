@@ -66,6 +66,7 @@ Adapters are testing framework extensions used to send autotest contents and res
 - 🧪 [@testit/adapters-go](https://github.com/testit-tms/adapters-go): Adapter for integration with Golang testing frameworks.
 - 🧪 [@testit/adapters-flutter](https://github.com/testit-tms/adapters-flutter): Adapter for integration with Flutter.
 - 🧪 [@testit/adapters-kotlin](https://github.com/testit-tms/adapters-kotlin): Adapter for integration with Kotlin.
+- 🧪 [@testit/adapters-swift](https://github.com/testit-tms/adapters-swift): Adapter for integration with Swift XCTest.
 
 ### Community Adapters
 
@@ -84,6 +85,7 @@ Clients are libraries used to automate your work with Test IT open API.
 - 🔌 [@testit/api-client-js](https://github.com/testit-tms/api-client-js): Client for JavaScript.
 - 🔌 [@testit/api-client-golang](https://github.com/testit-tms/api-client-golang): Client for Golang.
 - 🔌 [@testit/api-client-kotlin](https://github.com/testit-tms/api-client-kotlin): Client for Kotlin.
+- 🔌 [@testit/api-client-swift](https://github.com/testit-tms/api-client-swift): Client for Swift.
 
 ## Importers
 
