@@ -97,7 +97,8 @@ Importers are libraries used to automate the process of importing data from exte
 
 ### Official Importers
 
-- 📥 [@testit/migrators](https://github.com/testit-tms/migrators): Official Importers and exporters for different system to the Test IT.
+- 📥 [@testit/migrators](https://github.com/testit-tms/migrators): Official migrators and exporters for different systems to the Test IT.
+- 📥 [@testit/project-importer](https://github.com/testit-tms/project-importer): Official project importer for json exports from different systems to the Test IT.   
 - 📥 [@testit/testit-importer-allure](https://github.com/testit-tms/importers): Import Allure result files into Test IT.
 
 ### Community Importers
