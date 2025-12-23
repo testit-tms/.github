@@ -48,6 +48,8 @@ ___
 ## Tools
 
 - 🧪 [@testit/testit-cli](https://github.com/testit-tms/testit-cli): Test IT CLI - utility for working with Test IT API and adapters.
+- 🧪 [@testit/testit-management](https://github.com/testit-tms/testit-management): Jetbrains IDE plugin for Test IT
+- 🧪 [@testit/testit-management-vsc](https://github.com/testit-tms/testit-management-vsc): Visual Studio Code IDE plugin for Test IT
 
 ## Adapters
 
