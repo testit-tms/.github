@@ -75,6 +75,16 @@ Adapters are testing framework extensions used to send autotest contents and res
 - 🧪 [@alexmorez/codeceptjs-testit-reporter](https://github.com/alexmorez/codeceptjs-testit-reporter): Adapter for integration with Codecept testing frameworks.
 - 🧪 [@TatianaKamaletdinova/test-it-gradle-plugin](https://github.com/TatianaKamaletdinova/test-it-gradle-plugin): Gradle plugin for upload test results
 
+### Official Examples
+
+- 📝 [@testit/java-examples](https://github.com/testit-tms/java-examples): This repository contains samples for Java testing frameworks and Test IT adapters.
+- 📝 [@testit/python-examples](https://github.com/testit-tms/python-examples): This repository contains samples for Python testing frameworks and Test IT adapters.
+- 📝 [@testit/js-examples](https://github.com/testit-tms/js-examples): This repository contains samples for JavaScript testing frameworks and Test IT adapters.
+- 📝 [@testit/dotnet-examples](https://github.com/testit-tms/dotnet-examples): This repository contains samples for Dotnet testing frameworks and Test IT adapters.
+- 📝 [@testit/go-examples](https://github.com/testit-tms/go-examples): This repository contains samples for Golang testing frameworks and Test IT adapters.
+- 📝 [@testit/kotlin-examples](https://github.com/testit-tms/kotlin-examples): This repository contains samples for Kotlin testing frameworks and Test IT adapters.
+- 📝 [@testit/swift-examples](https://github.com/testit-tms/swift-examples): This repository contains samples for Swift testing frameworks and Test IT adapters.
+
 ## Clients
 
 ___
